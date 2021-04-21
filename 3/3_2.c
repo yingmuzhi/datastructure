@@ -15,3 +15,5 @@ typedef struct SqQueue {
 }SqQueue;
 
 // 初始化
+void InitQueue(SqQueue *Q){
+
